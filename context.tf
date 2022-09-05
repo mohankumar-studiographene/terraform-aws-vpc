@@ -1,5 +1,5 @@
 module "this" {
-  source  = "mohankumar-studiographene/label/null"
+  source  = "app.terraform.io/mohankumar-studiographene/label/null"
   version = "0.25.0"
 
   enabled             = var.enabled
